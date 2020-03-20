@@ -1,2 +1,2 @@
 # udacitymachinelearning
-Nano degree machine learning
+Artifical Intelligence : Machine Learning Nano Degree.
